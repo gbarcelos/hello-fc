@@ -6,4 +6,4 @@
 - ``A imagem de nosso projeto Go precisa ter menos de 2MB``
 
 
-Caso prefira, a imagem pode ser acessada diretamente no dockerhub através do [link](https://hub.docker.com/r/gbarcelos/hello-fc).
+Caso prefira, a imagem pode ser acessada diretamente no Docker Hub através do [link](https://hub.docker.com/r/gbarcelos/hello-fc).
