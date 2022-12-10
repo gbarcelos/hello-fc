@@ -4,3 +4,6 @@
 
 - ``Publicar uma imagem no docker hub e quando for executado docker run gbarcelos/hello-fc deverá ter o seguinte resultado: Full Cycle Rocks!``
 - ``A imagem de nosso projeto Go precisa ter menos de 2MB``
+
+
+Caso prefira, a imagem pode ser acessada diretamente no dockerhub através do [link](https://hub.docker.com/r/gbarcelos/hello-fc).
